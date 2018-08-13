@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="confirm">Confirmar</string>
+    <string name="remove">Remover</string>
+    <string name="confirm_message">Tem certeza de que deseja remover \'%1$s\'?</string>
+    <string name="cannot_write">Could\'nt write list</string>
+    <string name="cannot_read">Couldn\'t read list</string>
+    <string name="clear_checked">Limpar todos itens selecionados</string>
+    <string name="clear_all">Limpar tudo</string>
+    <string name="confirm_clear_all">Você tem certeza que deseja limpar tudo?</string>
+</resources>
